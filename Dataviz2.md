@@ -18,9 +18,9 @@ This plot is also not helpful to my analysis due to a large amount of white spac
  </p>
 
 
-# C.2nd Iteration Bump Chart
+# C. 2nd Iteration Bump Chart
 Finally, I used a Bump Chart. A Bump Chart will show the relative ranking of the countries in terms of Debt to GDP ratio across time. Each curvy bar represents one country. The width of curvy bar represents the size of the ratio. The larger the ratio in any specific year, the width of the curvy bar will be larger and the position of the curvy bar will be higher in the chart. This is more useful than the previous two visualizations as:
- * unlike the beeswarm, we can compare between countries more easily due to smaller amount of white spaces between the curvy bars;
+ * unlike the beeswarm, we can compare between countries more easily in one glance due to smaller amount of white spaces between the curvy bars and the use of gray colour; 
  * unlike the bar chart, we can see the trend across time.
 
 The 10 countries that I want to look at are highlighted in shades of orange/red (high rati0) or shades of purple/pink (low ratio). The rest of the countries are in gray, so as not to reduce the attention on the 10 countries. But when we see all the bars in aggregate, it appears that the total debt of the OECD was increasing across time, the summation of all the width of the bars was getting larger as time passes.
