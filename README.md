@@ -19,4 +19,4 @@ My current policy interests are in the education and health sector. Specifically
 From this data visualization course, I hope to learn ways to improve my ability to design data to communicate and persuade my audience. Currently, my visualization skills are stuck at the Excel level, which I think is insufficient to achieve my career goal of being a public policy analyst who can influence others to take up evidence-based thinking and believe in my analysis.   
 
 # Portfolio
-Coming soon!!! 
+[dataviz2](/dataviz2.md)
