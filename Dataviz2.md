@@ -1,7 +1,10 @@
 # OECD Data Visualization
+[Back to Main Page](https://yangle-l.github.io/Lim-Portfolio)
+
 ## A.Original Viz
+I chose these 10 countries because I want to compare between the high and low debt to GDP ratio countries and they have data from 1995 to 2015. However, this bar chart is not ideal as I cannot compare the data across time.
 <p align="center"> 
-  <iframe src="https://data.oecd.org/chart/5Jva" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Jva" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+  <iframe src="https://data.oecd.org/chart/5Jwd" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Jwd" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
     </p>
 
 ## B.1st Iteration Beeswarm Plot
