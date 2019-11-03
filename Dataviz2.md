@@ -1,13 +1,13 @@
 # OECD Data Visualization
 [Back to Main Page](https://yangle-l.github.io/Lim-Portfolio)
 
-## A.Original Viz
+## A. Original Viz
 I chose these 10 countries to highlight because I want to compare between the high and low debt to GDP ratio countries and they have data from 1995 to 2015. However, this bar chart is not ideal as I cannot compare the data across time.
 <p align="center"> 
   <iframe src="https://data.oecd.org/chart/5Jwd" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Jwd" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
     </p>
 
-## B.1st Iteration Beeswarm Plot
+## B. 1st Iteration Beeswarm Plot
 Next, I tried a Beeswarm Plot to see the trend across time. I kept the other countries (besides the 10) to see the overall trend. The size of the circle corresponds to the level of debt to GDP ratio; the larger the circle, the higher the level of debt to GDP ratio. 
 
 This plot is also not helpful to my analysis due to a large amount of white spaces. By including all the 35 countries, this creates a lot of white spaces in between countries. This hindered my ability to compare between my 10 countries. The only things we can observe are that debt to GDP ratio change across time and it varies widely across countries.
