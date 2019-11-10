@@ -2,7 +2,8 @@
 [Back to Main Page](https://yangle-l.github.io/Lim-Portfolio)
 
 
-<p align="left"> Elizabeth Warren Is Popular Among the Supporters of Other Democratic Presidential Candidates. </p> 
+<p align="left"> Elizabeth Warren Is Popular Among the Supporters of Other Democratic\
+  Presidential Candidates. </p> 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/img2.JPG" width= "600"> </p> 
 <p align="left">   
