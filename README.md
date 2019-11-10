@@ -20,3 +20,4 @@ From this data visualization course, I hope to learn ways to improve my ability 
 
 # Portfolio
 [1. Data Viz 2](/Dataviz2.md)
+[2. Data Viz 3&4](/Dataviz3&4.md)
