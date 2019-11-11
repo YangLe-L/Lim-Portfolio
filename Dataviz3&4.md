@@ -6,7 +6,11 @@
   <img src="https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/20191102_woc978.png"> </p> 
 [Source: Economist](https://www.economist.com/graphic-detail/2019/10/25/how-being-second-choice-could-put-elizabeth-warren-on-top)
 
-It is a very comprehensive chart that is made up of smaller sub-charts showing the level of popularity of the presidential candidates among the different subgroups. Their labels are very clear to guide the readers to understand the meaning of the bars, especially the titles in the sub-charts. I like their use of gray and blue to highlight the level of popularity of Senator Warren. We can see that she is the top 2nd choice in the supporters of her rivals. The layout and the use of color help to boost the usefulness and completeness score as readers can tell the main point of all the charts using the highlighted data points. After reaching this conclusion, the comprehensiveness of the charts also encourages the readers to find out who is the 3rd choice or the 4th choice, so on and so forth which increases the engagement score.
+It is a very comprehensive chart that is made up of smaller sub-charts showing the level of popularity of the presidential candidates among the different subgroups. 
+1. Their labels are very clear to guide the readers to understand the meaning of the bars, especially the titles in the sub-charts. 
+2. I like their use of gray and blue to highlight the level of popularity of Senator Warren. We can see that she is the top 2nd choice in the supporters of her rivals. 
+
+The layout and the use of color help to boost the usefulness and completeness score as readers can tell the main point of all the charts using the highlighted data points. After reaching this conclusion, the comprehensiveness of the charts also encourages the readers to find out who is the 3rd choice or the 4th choice, so on and so forth which increases the engagement score.
 
 However, the readers are likely to take some time to reach the conclusion. 
 1. Readers have to figure out what is the differences between the horizontal bar and vertical bar of each candidate which is pointed out by the legend. 
