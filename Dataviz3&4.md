@@ -1,7 +1,9 @@
 # Economist: Democratic Primaries 
 [Back to Main Page](https://yangle-l.github.io/Lim-Portfolio)
 
+## Critique of Original Viz
 
+## First Cut 
 **Elizabeth Warren Is Popular Among the Supporters of Other Democratic Presidential <br/> Candidates.** 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/img2.JPG" width= "600"> </p> 
