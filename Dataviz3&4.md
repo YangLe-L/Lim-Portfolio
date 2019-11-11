@@ -12,6 +12,7 @@ However, the readers are likely to take some time to reach the conclusion.
 1. Readers have to figure out what is the differences between the horizontal bar and vertical bar of each candidate which is pointed out by the legend. 
 2. I do not feel that the margin of error needs to be added as normal readers would not know the significance of the margin of error unless they are trained in statistics. Having the margin or error helps the truthfulness score because it paints a more accurate picture. But if the readers do not understand it, it is likely to be unnecessary data that take away attention time. 
 3. While there is a completeness of data, there might be too much data just to prove the support of Senator Warren. The important information is the relative rank of Senator Warren which is being the top in most of the sub-charts. But in order to get this idea, the readers have to read the title, the bars, and axis of every sub-chart. As such, this increases the time taken to fully understand the chart. 
+
 In conclusion, the completeness and truthfulness of the visualizations lead to more unwieldy layout of data which is harder to keep track; hence lowering the perceptibility, intuitiveness and aesthetics score (trade-off).   
 
 
