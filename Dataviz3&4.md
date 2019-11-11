@@ -4,7 +4,7 @@
 ## A. Critique of Original Viz
 
 ## B. First Cut 
-### **Elizabeth Warren Is Popular Among the Supporters of Other Democratic Presidential <br/> Candidates.** 
+### **Elizabeth Warren Is Popular Among the Supporters of Other Democratic<br/>Presidential Candidates.** 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/img2.JPG" width= "600"> </p> 
 <p align="left">   
