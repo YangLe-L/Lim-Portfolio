@@ -3,7 +3,7 @@
 
 ## A. Critique of Original Viz
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/20191102_woc978.png" width= "847"> </p> 
+  <img src="https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/20191102_woc978.png"> </p> 
 
 <br/>
 
