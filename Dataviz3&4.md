@@ -3,6 +3,7 @@
 
 ## A. Critique of Original Viz
 <br/>
+
 ## B. First Cut 
 ### **Elizabeth Warren Is Popular Among the Supporters of Other Democratic Presidential Candidates.** 
 <p align="left"> 
