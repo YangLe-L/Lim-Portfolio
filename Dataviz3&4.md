@@ -5,7 +5,7 @@
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/20191102_woc978.png"> </p> 
 [Source: Economist](https://www.economist.com/graphic-detail/2019/10/25/how-being-second-choice-could-put-elizabeth-warren-on-top)
-<br/>
+
 
 ## B. First Cut 
 ### **Elizabeth Warren Is Popular Among the Supporters of Other Democratic Presidential Candidates.** 
@@ -18,7 +18,7 @@
 
 ## C. Second Cut
 ### **Elizabeth Warren Is A Popular Second Choice Candidate Among the Democrats**
-#### If the preferred candidate of the Democrats does not win, Senator Warren might get enough votes to      
+#### If the preferred candidate of the Democrats does not win, Senator Warren might get enough votes to rise to the top       
 % of 1st Choice Candidate's Supporters Who Are Considering
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/img3.JPG" width= "847"> </p> 
