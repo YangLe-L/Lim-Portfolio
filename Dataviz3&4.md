@@ -27,18 +27,20 @@ In conclusion, the completeness and truthfulness of the visualizations lead to m
 <svg width="847" height="520" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0, 10)"><g class="links" fill="none" stroke-opacity="0.4"><path d="M9,23.333333333333304C423.5,23.333333333333304,423.5,264.99999999999994,838,264.99999999999994" stroke-width="46.666666666666664" style="stroke: rgb(51, 217, 227);"></path><path d="M9,79.99999999999982C423.5,79.99999999999982,423.5,48.33333333333327,838,48.33333333333327" stroke-width="46.666666666666664" style="stroke: rgb(220, 226, 232);"></path><path d="M9,136.6666666666665C423.5,136.6666666666665,423.5,311.6666666666666,838,311.6666666666666" stroke-width="46.666666666666664" style="stroke: rgb(51, 217, 227);"></path><path d="M9,193.33333333333323C423.5,193.33333333333323,423.5,358.33333333333326,838,358.33333333333326" stroke-width="46.666666666666664" style="stroke: rgb(51, 217, 227);"></path><path d="M9,249.99999999999986C423.5,249.99999999999986,423.5,404.99999999999994,838,404.99999999999994" stroke-width="46.666666666666664" style="stroke: rgb(51, 217, 227);"></path><path d="M9,306.6666666666665C423.5,306.6666666666665,423.5,151.6666666666666,838,151.6666666666666" stroke-width="46.666666666666664" style="stroke: rgb(220, 226, 232);"></path><path d="M9,363.3333333333332C423.5,363.3333333333332,423.5,94.99999999999993,838,94.99999999999993" stroke-width="46.666666666666664" style="stroke: rgb(220, 226, 232);"></path><path d="M9,419.99999999999994C423.5,419.99999999999994,423.5,451.66666666666663,838,451.66666666666663" stroke-width="46.666666666666664" style="stroke: rgb(51, 217, 227);"></path><path d="M9,476.6666666666667C423.5,476.6666666666667,423.5,208.3333333333333,838,208.3333333333333" stroke-width="46.666666666666664" style="stroke: rgb(220, 226, 232);"></path></g><g class="nodes" font-family="Arial, Helvetica" font-size="10"><g><rect x="838" y="24.999999999999943" height="93.33333333333331" width="9" fill="#000"></rect><text x="832" y="71.6666666666666" dy="0.35em" text-anchor="end">Biden</text></g><g><rect x="838" y="128.33333333333326" height="46.66666666666667" width="9" fill="#000"></rect><text x="832" y="151.6666666666666" dy="0.35em" text-anchor="end">Buttigieg</text></g><g><rect x="838" y="184.99999999999994" height="46.66666666666666" width="9" fill="#000"></rect><text x="832" y="208.33333333333326" dy="0.35em" text-anchor="end">Sanders</text></g><g><rect x="838" y="241.6666666666666" height="233.33333333333343" width="9" fill="#000"></rect><text x="832" y="358.3333333333333" dy="0.35em" text-anchor="end">Warren</text></g><g><rect x="0" y="-2.842170943040401e-14" height="46.666666666666515" width="9" fill="#000"></rect><text x="15" y="23.33333333333323" dy="0.35em" text-anchor="start">Biden</text></g><g><rect x="0" y="56.66666666666649" height="46.66666666666667" width="9" fill="#000"></rect><text x="15" y="79.99999999999983" dy="0.35em" text-anchor="start">Booker</text></g><g><rect x="0" y="113.33333333333316" height="46.66666666666674" width="9" fill="#000"></rect><text x="15" y="136.66666666666652" dy="0.35em" text-anchor="start">Buttigieg</text></g><g><rect x="0" y="169.9999999999999" height="46.66666666666663" width="9" fill="#000"></rect><text x="15" y="193.3333333333332" dy="0.35em" text-anchor="start">Gabbard</text></g><g><rect x="0" y="226.66666666666652" height="46.666666666666686" width="9" fill="#000"></rect><text x="15" y="249.99999999999986" dy="0.35em" text-anchor="start">Harris</text></g><g><rect x="0" y="283.3333333333332" height="46.66666666666667" width="9" fill="#000"></rect><text x="15" y="306.6666666666665" dy="0.35em" text-anchor="start">Klobuchar</text></g><g><rect x="0" y="339.9999999999999" height="46.666666666666714" width="9" fill="#000"></rect><text x="15" y="363.33333333333326" dy="0.35em" text-anchor="start">O'Rourke</text></g><g><rect x="0" y="396.66666666666663" height="46.66666666666674" width="9" fill="#000"></rect><text x="15" y="420" dy="0.35em" text-anchor="start">Sanders</text></g><g><rect x="0" y="453.33333333333337" height="46.666666666666686" width="9" fill="#000"></rect><text x="15" y="476.66666666666674" dy="0.35em" text-anchor="start">Yang</text></g></g></g></svg> 
 [Source: Economist](https://www.economist.com/graphic-detail/2019/10/25/how-being-second-choice-could-put-elizabeth-warren-on-top)
 
-I chose the alluvial diagram to show how the presidential primary votes flow from the top choice to the next most popular candidate (2nd choice). It is supposed to show how Elizabth Warren is quite popular as the 2nd choice candidate among the Democrats. Only Warren is labelled blue as she is the focus of this data. The rest of the data will be in gray to reduce attention on it.  
+I chose the alluvial diagram to show how the presidential primary votes flow from the top choice to the next most popular candidate (2nd choice). It is supposed to show how Elizabeth Warren is quite popular as the 2nd choice candidate among the Democrats. Only Warren is labeled blue as she is the focus of this data. The rest of the data will be in gray to reduce attention to it.  
 
 Based on the feedback from others and my own reflection, there are improvements to be made:
 * The direction of reading is unclear. Is it from left to right or vice versa or bidirectional?
 
-* Is there any meaning to the size of each bar? Since they look the same, does this mean Warren has equal supporters from each 1st Choice Candidate? Additonally, what is the value ascribed to each bar?
+* Is there any meaning to the size of each bar? Since they look the same, does this mean Warren has equal supporters from each 1st Choice Candidate? Additionally, what is the value ascribed to each bar?
 
-* Terms used such as 1st choice candidate, most popular non preferred candidate might be too specialized. It assumes contextual literary of audiences who will be familiar with such terms. 
+* Terms used such as 1st choice candidate, most popular non preferred candidate might be too specialized. It assumes the contextual literary of audiences who will be familiar with such terms. 
 
-* The title is vague (How popular?). Change the caption to make it more clear and impactful- "Warren is the most popular".
+* The title is vague (How popular?). Change the title to make it more clear and impactful- "Warren is the most popular". 
 
-* Warren is the most popular 2nd choice candidate but her bars are at the bottom of the chart. This creates a dissonance.  
+* It was also mentioned that it is unclear why this chart matters to a layperson.  
+
+* Warren is the most popular 2nd choice candidate but her bars are at the bottom of the chart. This creates dissonance.  
 
 ## C. Second Cut
 ### **Elizabeth Warren Might Win The Nominee By Being The Most Popular Second Choice Candidate <br/> Among the Democrats**    
@@ -49,12 +51,19 @@ Based on the feedback from others and my own reflection, there are improvements 
 [Source: Economist](https://www.economist.com/graphic-detail/2019/10/25/how-being-second-choice-could-put-elizabeth-warren-on-top)
 
 Based on the feedback given, I made the following adjustments to my first draft:
-* In order to make the the direction of reading more obvious (from left to right), the axis label will mention "1st choice" on the left and "2nd choice" on the right.
+* In order to make the direction of reading more obvious (from left to right), the axis label will mention "1st choice" on the left and "2nd choice" on the right.
 
 * The size of the bar is now proportional to the percentage of the 1st choice supporters who are also considering the 2nd choice candidate. The larger the percentage, the larger the size. The percentage value is also included within the bar. 
 
-* Axis labels are modified to be better understood by casual readers. 1st choice candidate is referred as the most preferred candidate first which is less technical.
+* Axis labels are modified using more normal words to be better understood by casual readers. 1st choice candidate is referred to as the most preferred candidate first which is less technical.
 
-* The title is changed to be even more specific and included the impact of being the most popular 2nd choice candidate.
+* The title is changed to be even more specific and included the impact of being the most popular 2nd choice candidate. This is so that readers can find the chart to be more useful.
 
-* Warren's bars are shifted to the top to emphaize the popularity of the 2nd choice candidate. 
+* Warren's bars are shifted to the top to emphasize the popularity of the 2nd choice candidate.
+
+The feedback was very useful to help me make my chart clearer. When I did my first draft, I thought I have translated the idea of the original visualization into my version. After the feedback from my friends, I realize the idea from my version may not be understood by other readers. This taught me about the importance of asking for feedback and not assuming that others have the same perspective as me. 
+
+For example, I was questioned about the purpose of this chart to a layperson and the technicality of the labels. This was important feedback as my target audience is the same as the Economist. They are the casual readers of current affairs who are essentially layperson. Therefore, I made my title more insightful by including the impact of Warren's popularity and use more normal words for my labels. 
+
+Ultimately, I hope that my second draft can show how Senator Warren can benefit from being the second choice among the Democrats even if she is not the most preferred candidate for some group of primary voters. She is able to get support from 5 out of the 10 supporter pools which are unmatched by other candidates. In most of the supporter pools, she can get as high as 40%-55% of supporters which is sizable. This huge support disparity is highlighted using the width of Warren's blue bars which stands out in my chart.  
+
