@@ -51,7 +51,7 @@ Based on the feedback from others and my own reflection, there are improvements 
 [Source: Economist](https://www.economist.com/graphic-detail/2019/10/25/how-being-second-choice-could-put-elizabeth-warren-on-top)
 
 Based on the feedback given, I made the following adjustments to my first draft:
-* In order to make the direction of reading more obvious (from left to right), the axis label will mention "1st choice" on the left and "2nd choice" on the right.
+* In order to make the direction of reading more obvious and standarized (from left to right), the axis label will mention "1st choice" on the left and "2nd choice" on the right.
 
 * The size of the bar is now proportional to the percentage of the 1st choice supporters who are also considering the 2nd choice candidate. The larger the percentage, the larger the size. The percentage value is also included within the bar. 
 
@@ -64,6 +64,8 @@ Based on the feedback given, I made the following adjustments to my first draft:
 The feedback was very useful to help me make my chart clearer. When I did my first draft, I thought I have translated the idea of the original visualization into my version. After the feedback from my friends, I realize the idea from my version may not be understood by other readers. This taught me about the importance of asking for feedback and not assuming that others have the same perspective as me. 
 
 For example, I was questioned about the purpose of this chart to a layperson and the technicality of the labels. This was important feedback as my target audience is the same as the Economist. They are the casual readers of current affairs who are essentially layperson. Therefore, I made my title more insightful by including the impact of Warren's popularity and use more normal words for my labels. 
+
+Different readers can also have varying ways of looking at the same chart. Out of those who gave feedback for me, one of them looked at the chart from the left to right while the other one was looking at it bi-directionally (from left to right and right to left). This reminded me to make my charts with as little ambiguity as possible.    
 
 Ultimately, I hope that my second draft can show how Senator Warren can benefit from being the second choice among the Democrats even if she is not the most preferred candidate for some group of primary voters. She is able to get support from 5 out of the 10 supporter pools which are unmatched by other candidates. In most of the supporter pools, she can get as high as 40%-55% of supporters which is sizable. This huge support disparity is highlighted using the width of Warren's blue bars which stands out in my chart.  
 
