@@ -2,9 +2,9 @@
 [Back to Main Page](https://yangle-l.github.io/Lim-Portfolio)
 
 ## A. Critique of Original Viz
-
+<br/>
 ## B. First Cut 
-### **Elizabeth Warren Is Popular Among the Supporters of Other DemocraticPresidential Candidates.** <br/>
+### **Elizabeth Warren Is Popular Among the Supporters of Other Democratic Presidential Candidates.** 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/img2.JPG" width= "847"> </p> 
 <p align="left">   
