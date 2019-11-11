@@ -34,7 +34,8 @@ Based on feedback, there are improvements to be made:
 * The caption is vague (How popular?). Change the caption to make it more clear and impactful- "Warren is the most popular".
 
 ## C. Second Cut
-### **Elizabeth Warren Might Win The Nominee By Being The Most Popular Second Choice Candidate Among the Democrats**    
+### **Elizabeth Warren Might Win The Nominee By Being The Most Popular Second Choice Candidate <br/>
+Among the Democrats**    
 % of 1st Choice Candidate's Supporters Who Are Considering
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/img3.JPG" width= "847"> </p> 
