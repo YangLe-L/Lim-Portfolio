@@ -4,7 +4,7 @@
 ## A. Critique of Original Viz
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/20191102_woc978.png"> </p> 
-
+[Source:Economist](https://www.economist.com/graphic-detail/2019/10/25/how-being-second-choice-could-put-elizabeth-warren-on-top)
 <br/>
 
 ## B. First Cut 
