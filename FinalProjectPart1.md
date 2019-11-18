@@ -26,7 +26,7 @@ The dataset I am using is from my undergraduate thesis research.
 
 This is the model that I was working on in my thesis. 
 
-![Healthcare Production Process](https://github.com/YangLe-L/Lim-Portfolio/blob/master/healthcare%20process.JPG)
+![Healthcare Production Process](/healthcare process.JPG)
 
 Source: Taken from my thesis; Adapted from Wendt, C., & Kohl, J. (2010). Translating monetary inputs into health care provision: A comparative analysis of the impact of different modes of public policy. Journal of Comparative Policy Analysis, 12(1/2), 11-31.
 
