@@ -35,15 +35,15 @@ Real output --> health outcome. Taken from [OECD’s Health Care Quality Indicat
 
 This model was used to compare between the different health systems from source C.E.g. the ratio betwwen monetary input and real input of USA is compared to the UK to see how efficient the money is used to pay for healthcare provision.    
 
-![A.Healthcare Production Process](https://github.com/YangLe-L/Lim-Portfolio/blob/master/healthcare%20process.JPG)
+![Healthcare Production Process](https://github.com/YangLe-L/Lim-Portfolio/blob/master/healthcare%20process.JPG)
 
 Source A: Taken from my thesis; Adapted from Wendt, C., & Kohl, J. (2010). Translating monetary inputs into health care provision: A comparative analysis of the impact of different modes of public policy. Journal of Comparative Policy Analysis, 12(1/2), 11-31.
 
-![B.Sources of indicators](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Sources.JPG)
+![Sources of indicators](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Sources.JPG)
 
 Source B: Taken from my thesis; for the exact citation, refer to the pdf file.
 
-[C. Healthcare System Type](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Classifying%20OECD.pdf)
+[Healthcare System Type](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Classifying%20OECD.pdf)
 
 Source C: Taken from my thesis; Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165. Retrieved from http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf
 
