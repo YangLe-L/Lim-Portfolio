@@ -20,9 +20,9 @@ Resolution: The debate on healthcare should change to focus in another direction
 ## B.Data
 The dataset I am using is from my undergraduate thesis research. 
 
-[Academic Website](https://repository.ntu.edu.sg/handle/10356/76200)
+#### [Academic Website](https://repository.ntu.edu.sg/handle/10356/76200)
 
-[PDF Acess to my Thesis](/FYP_LIM YANG LE.pdf)
+#### [PDF Acess to my Thesis](/FYP_LIM YANG LE.pdf)
 
 This was the model that I worked on in my thesis.  Each step in the model contains several indicators.
 
@@ -43,9 +43,8 @@ Source A: Taken from my thesis; Adapted from Wendt, C., & Kohl, J. (2010). Trans
 
 Source B: Taken from my thesis; for the exact citation, refer to the pdf file.
 
-[Healthcare System Type](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Classifying%20OECD.pdf)
-
-Source C: Taken from my thesis; Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165. Retrieved from http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf
+[To Healthcare System Type](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Classifying%20OECD.pdf)
+:Source C: Taken from my thesis; Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165. Retrieved from http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf
 
 The exisitng vizualizations will be redesigned as it will probably need to more streamlined to be more persuasive. Currently, they have too much infomarmation and less specific to the US audience. The vizualizations will focus on on how the American perfrom relative to the other systems. Depending of the length of the story, I might be doing a deeper dive in the 'regulation' indicator to see if there are additional insights for America.  
 
