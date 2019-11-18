@@ -25,7 +25,9 @@ The dataset I am using is from my undergraduate thesis research.
 [PDF Acess to my Thesis](/FYP_LIM YANG LE.pdf)
 
 This is the model that I was working on in my thesis. 
+
 <img src="https://github.com/YangLe-L/Lim-Portfolio/blob/master/healthcare%20process.JPG">
+
 Source: Taken from my thesis; Adapted from Wendt, C., & Kohl, J. (2010). Translating monetary inputs into health care provision: A comparative analysis of the impact of different modes of public policy. Journal of Comparative Policy Analysis, 12(1/2), 11-31.
 
 Besides redesigning the exisitng vizualizations, I will be going to do a deeper dive in the 'regulation' indicator  
