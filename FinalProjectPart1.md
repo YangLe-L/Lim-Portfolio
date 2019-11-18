@@ -36,7 +36,7 @@ Picture A was the model that I worked on in my thesis.  Each step in the model c
 - Real input --> number (per 1000 population) of healthcare personnel of hospital bed, nurses, physicians, dentists, and pharmacists
 Taken from [2013 OECD data](https://stats.oecd.org/index.aspx?queryid=30183) unless otherwise stated in Picture B below.
 
-- Real output --> health outcome. Taken from [OECD’s Health Care Quality Indicators project (HCQI)](http://www.oecd.org/els/health-systems/health-care-quality-indicators.html) unless otherwise stated in Picture B below. Half of the real output refers to primary care and other half refers to acute care.
+- Real output --> health outcome. Taken from [OECD’s Health Care Quality Indicators project (HCQI)](https://stats.oecd.org/index.aspx?queryid=30183) unless otherwise stated in Picture B below. Half of the real output refers to primary care and other half refers to acute care.
 
 This model was used to compare the different health systems. E.g. the ratio between monetary input and real input of USA is compared to the UK to see how efficient the money is used to pay for healthcare provision.    
 
