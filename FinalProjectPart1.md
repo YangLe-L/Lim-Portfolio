@@ -2,15 +2,15 @@
 [Back to Main Page](https://yangle-l.github.io/Lim-Portfolio)
 
 ## A.Outline
-[**High level summary: The United States is not prioritizing on the right solutions when it comes to dealing with the problems in the healthcare industry.**]
+### High level summary: The United States is not prioritizing on the right solutions when it comes to dealing with the problems in the healthcare industry.
 I will be using a model which I have modified for my undergraudate thesis to derive insights for the US healthcare system. This model is comparing between the healthcare system of 30 OECD countries and Singapore. My story will be using lessons learnt from this model to see if the current debate on the US healthcare reforms is in the right direction.
 
-[**Aim**]
+### Aim
 As a reader, I want to lobby for a more sensible healthcare system so that I can recieve better healthcare quality and experience lower healthcare cost.    
 
 Another aim is to see if I can redesign my orignal visualizations to make it better for consumption by the general public. I want to test if I can make academic research more acceptable to them.  
 
-[**Structure of Storyline (from Good Charts text)**]
+### Structure of Storyline (from Good Charts text)
 Setup: This is the parts of a healthcare system 
 
 Conflict: America is not doing well compared to other countries and the debate on healthcare is not in the right direction 
@@ -33,7 +33,7 @@ Picture A was the model that I worked on in my thesis.  Each step in the model c
 - Real input --> number (per 1000 population) of healthcare personnel of hospital bed, nurses, physicians, dentists, and pharmacists
 Taken from [2013 OECD data](https://stats.oecd.org/index.aspx?queryid=30183) unless otherwise stated in the Picture B below.
 
--Real output --> health outcome. Taken from [OECD’s Health Care Quality Indicators project (HCQI)](http://www.oecd.org/els/health-systems/health-care-quality-indicators.html) unless othwe wise stated in Picture B below. Half of the real output refers to primary care and other half refers to acute care.
+- Real output --> health outcome. Taken from [OECD’s Health Care Quality Indicators project (HCQI)](http://www.oecd.org/els/health-systems/health-care-quality-indicators.html) unless othwe wise stated in Picture B below. Half of the real output refers to primary care and other half refers to acute care.
 
 This model was used to compare between the different health systems from source C.E.g. the ratio betwwen monetary input and real input of USA is compared to the UK to see how efficient the money is used to pay for healthcare provision.    
 
