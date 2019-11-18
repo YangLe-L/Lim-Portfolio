@@ -42,7 +42,7 @@ Source A: Taken from my thesis; Adapted from Wendt, C., & Kohl, J. (2010). Trans
 
 ![B. Sources of indicators](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/Sources.JPG)
 
-Source B: Taken from my thesis; for the exact citation, refer to the pdf file.
+Source B: Taken from my thesis; for the exact citation, refer to my thesis pdf.
 
 The exisitng vizualizations will be redesigned as it will probably need to more streamlined to be more persuasive. Currently, they have too much infomarmation and less specific to the US audience. The vizualizations will focus on on how the American perfrom relative to the other systems. Depending of the length of the story, I might be doing a deeper dive in the 'regulation' indicator to see if there are additional insights for America.  
 
