@@ -28,12 +28,17 @@ This was the model that I worked on in my thesis. This model was used to compare
 
 Monetary input --> Total health expenditure as a percentage of Gross Domestic Product (GDP); Expenditure on a per capita basis and government’s share of the expenditure. Taken from [WHO (2013). Global Health Expenditure Database.] (http://apps.who.int/nha/database/Select/Indicators/en)
 
-Real input 
+Real input --> number (per 1000 population) of healthcare personnel of hospital bed, nurses, physicians, dentists, and pharmacists
+Taken from [2013 OECD data](https://stats.oecd.org/index.aspx?queryid=30183)
+
+
 E.g. the ratio betwwen monetary input and real input of USA is compared to the UK to see the effeciciency of the health care system.    
 
 ![Healthcare Production Process](https://github.com/YangLe-L/Lim-Portfolio/blob/master/healthcare%20process.JPG)
-
 Source: Taken from my thesis; Adapted from Wendt, C., & Kohl, J. (2010). Translating monetary inputs into health care provision: A comparative analysis of the impact of different modes of public policy. Journal of Comparative Policy Analysis, 12(1/2), 11-31.
+
+![Sources of indicators](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Sources.JPG)
+Source:Taken from my thesis; for the exact citation, refer to the pdf file.
 
 
 
