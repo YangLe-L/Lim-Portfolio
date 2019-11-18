@@ -11,11 +11,9 @@ As a reader, I want to lobby for a more sensible healthcare system so that I can
 Another aim is to see if I can redesign my orignal visualizations to make it better for consumption by the general public. I want to test if I can make academic research more acceptable to them.  
 
 ### Structure of Storyline (from Good Charts text)
-Setup: This is the parts of a healthcare system 
-
-Conflict: America is not doing well compared to other countries and the debate on healthcare is not in the right direction 
-
-Resolution: The debate on healthcare should change to focus in another direction. 
+- Setup: This is the parts of a healthcare system 
+- Conflict: America is not doing well compared to other countries and the debate on healthcare is not in the right direction 
+- Resolution: The debate on healthcare should change to focus in another direction. 
 
 ## B.Data
 The dataset I am using is from my undergraduate thesis research. 
