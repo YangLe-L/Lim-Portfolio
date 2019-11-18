@@ -23,7 +23,7 @@ The dataset I am using is from my undergraduate thesis research.
 #### [PDF Acess to my Thesis](/FYP_LIM YANG LE.pdf)
 
 #### [Healthcare System Type](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Classifying%20OECD.pdf)
-Source C: Taken from my thesis; Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165. Retrieved from http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf
+(Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165. Retrieved from http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf)
 
 Picture A was the model that I worked on in my thesis.  Each step in the model contains several indicators.
 - Monetary input --> Total health expenditure as a percentage of Gross Domestic Product (GDP); Expenditure on a per capita basis and government’s share of the expenditure. Taken from [WHO (2013). Global Health Expenditure Database.] (http://apps.who.int/nha/database/Select/Indicators/en)
