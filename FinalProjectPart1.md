@@ -24,27 +24,28 @@ The dataset I am using is from my undergraduate thesis research.
 
 #### [PDF Acess to my Thesis](/FYP_LIM YANG LE.pdf)
 
-This was the model that I worked on in my thesis.  Each step in the model contains several indicators.
+#### [Healthcare System Type](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Classifying%20OECD.pdf)
+Source C: Taken from my thesis; Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165. Retrieved from http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf
 
-Monetary input --> Total health expenditure as a percentage of Gross Domestic Product (GDP); Expenditure on a per capita basis and government’s share of the expenditure. Taken from [WHO (2013). Global Health Expenditure Database.] (http://apps.who.int/nha/database/Select/Indicators/en)
+Picture A was the model that I worked on in my thesis.  Each step in the model contains several indicators.
+- Monetary input --> Total health expenditure as a percentage of Gross Domestic Product (GDP); Expenditure on a per capita basis and government’s share of the expenditure. Taken from [WHO (2013). Global Health Expenditure Database.] (http://apps.who.int/nha/database/Select/Indicators/en)
 
-Real input --> number (per 1000 population) of healthcare personnel of hospital bed, nurses, physicians, dentists, and pharmacists
+- Real input --> number (per 1000 population) of healthcare personnel of hospital bed, nurses, physicians, dentists, and pharmacists
 Taken from [2013 OECD data](https://stats.oecd.org/index.aspx?queryid=30183) unless otherwise stated in the Picture B below.
 
-Real output --> health outcome. Taken from [OECD’s Health Care Quality Indicators project (HCQI)](http://www.oecd.org/els/health-systems/health-care-quality-indicators.html) unless othwe wise stated in Picture B below. Half of the real output refers to primary care and other half refers to acute care.
+-Real output --> health outcome. Taken from [OECD’s Health Care Quality Indicators project (HCQI)](http://www.oecd.org/els/health-systems/health-care-quality-indicators.html) unless othwe wise stated in Picture B below. Half of the real output refers to primary care and other half refers to acute care.
 
 This model was used to compare between the different health systems from source C.E.g. the ratio betwwen monetary input and real input of USA is compared to the UK to see how efficient the money is used to pay for healthcare provision.    
 
-![Healthcare Production Process](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/healthcare%20process.JPG)
+![A. Healthcare Production Process](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/healthcare%20process.JPG)
 
 Source A: Taken from my thesis; Adapted from Wendt, C., & Kohl, J. (2010). Translating monetary inputs into health care provision: A comparative analysis of the impact of different modes of public policy. Journal of Comparative Policy Analysis, 12(1/2), 11-31.
 
-![Sources of indicators](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Sources.JPG)
+![B. Sources of indicators](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/Sources.JPG)
 
 Source B: Taken from my thesis; for the exact citation, refer to the pdf file.
 
-[To Healthcare System Type](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Classifying%20OECD.pdf)
-:Source C: Taken from my thesis; Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165. Retrieved from http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf
+
 
 The exisitng vizualizations will be redesigned as it will probably need to more streamlined to be more persuasive. Currently, they have too much infomarmation and less specific to the US audience. The vizualizations will focus on on how the American perfrom relative to the other systems. Depending of the length of the story, I might be doing a deeper dive in the 'regulation' indicator to see if there are additional insights for America.  
 
