@@ -59,5 +59,5 @@ The plan for the next two weeks are:
 
 ## D.Initial Sketches
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/IMG_0609.jpg)
-
-
+![2.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/IMG_0610.jpg)
+![3.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/IMG_0611.jpg)
