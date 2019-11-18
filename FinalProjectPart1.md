@@ -2,13 +2,13 @@
 [Back to Main Page](https://yangle-l.github.io/Lim-Portfolio)
 
 ## A.Outline
-### High level summary: The United States is not prioritizing on the right solutions when it comes to dealing with the problems in the healthcare industry.
-I will be using a model which I have modified for my undergraudate thesis to derive insights for the US healthcare system. This model is comparing between the healthcare system of 30 OECD countries and Singapore. My story will be using lessons learnt from this model to see if the current debate on the US healthcare reforms is in the right direction.
+### High-level summary: The United States is not prioritizing on the right solutions when it comes to dealing with the problems in the healthcare industry.
+I will be using a model that I have modified for my undergraduate thesis to derive insights for the US healthcare system. This model is comparing the healthcare system of 30 OECD countries and Singapore. My story will be using lessons learned from this model to see if the current debate on the US healthcare reforms is in the right direction.
 
 ### Aim
-As a reader, I want to lobby for a more sensible healthcare system so that I can recieve better healthcare quality and experience lower healthcare cost.    
+As a reader, I want to lobby for a more sensible healthcare system so that I can receive better healthcare quality and experience lower healthcare cost.    
 
-Another aim is to see if I can redesign my orignal visualizations to make it better for consumption by the general public. I want to test if I can make academic research more acceptable to them.  
+Another aim is to see if I can redesign my original visualizations to make it better for consumption by the general public. I want to test if I can make academic research more acceptable to them.  
 
 ### Structure of Storyline (from Good Charts text)
 - Setup: This is the parts of a healthcare system 
@@ -30,11 +30,11 @@ Picture A was the model that I worked on in my thesis.  Each step in the model c
 - Monetary input --> Total health expenditure as a percentage of Gross Domestic Product (GDP); Expenditure on a per capita basis and government’s share of the expenditure. Taken from [WHO (2013). Global Health Expenditure Database.] (http://apps.who.int/nha/database/Select/Indicators/en)
 
 - Real input --> number (per 1000 population) of healthcare personnel of hospital bed, nurses, physicians, dentists, and pharmacists
-Taken from [2013 OECD data](https://stats.oecd.org/index.aspx?queryid=30183) unless otherwise stated in the Picture B below.
+Taken from [2013 OECD data](https://stats.oecd.org/index.aspx?queryid=30183) unless otherwise stated in Picture B below.
 
-- Real output --> health outcome. Taken from [OECD’s Health Care Quality Indicators project (HCQI)](http://www.oecd.org/els/health-systems/health-care-quality-indicators.html) unless othwe wise stated in Picture B below. Half of the real output refers to primary care and other half refers to acute care.
+- Real output --> health outcome. Taken from [OECD’s Health Care Quality Indicators project (HCQI)](http://www.oecd.org/els/health-systems/health-care-quality-indicators.html) unless otherwise stated in Picture B below. Half of the real output refers to primary care and other half refers to acute care.
 
-This model was used to compare between the different health systems. E.g. the ratio betwwen monetary input and real input of USA is compared to the UK to see how efficient the money is used to pay for healthcare provision.    
+This model was used to compare the different health systems. E.g. the ratio between monetary input and real input of USA is compared to the UK to see how efficient the money is used to pay for healthcare provision.    
 
 ![A. Healthcare Production Process](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/healthcare%20process.JPG)
 
@@ -44,10 +44,13 @@ Source A: Taken from my thesis; Adapted from Wendt, C., & Kohl, J. (2010). Trans
 
 Source B: Taken from my thesis; for the exact citation, refer to my thesis pdf.
 
-The exisitng vizualizations will be redesigned as it will probably need to more streamlined to be more persuasive. Currently, they have too much infomarmation and less specific to the US audience. The vizualizations will focus on on how the American perfrom relative to the other systems. Depending of the length of the story, I might be doing a deeper dive in the 'regulation' indicator to see if there are additional insights for America.  
+The existing visualizations will be redesigned as it will probably need to more streamlined to be more persuasive. Currently, they have too much information and less specific to the US audience. The visualizations will focus on how America perform relative to the other systems. Depending on the length of the story, I might be doing a deeper dive into the 'regulation' indicator to see if there are additional insights for America.  
+
 
 ## C.Method and Medium
-I will be using Shorthand to show my story. The plan for the next two weeks are:
+I will be using Shorthand to show my story. Tools like datwrapper, tableau, and rawgraphs will be used to create the charts needed to drive my story.  
+
+The plan for the next two weeks are:
 - week 1: generating the charts with story outline for feedback
 - week 2: refine the charts and story outline; transferred it to Shorthand 
 
