@@ -48,8 +48,7 @@ The existing visualizations will be redesigned as it will probably need to more 
 
 
 ## C.Method and Medium
-I will be using Shorthand to show my story. Tools like datwrapper, tableau, and rawgraphs will be used to create the charts needed to drive my story.  
-
+I will be using Shorthand to show my story. Tools like datwrapper, tableau, and rawgraphs will be used to create the charts needed to drive my story. 
 The plan for the next two weeks are:
 - week 1: generating the charts with story outline for feedback
 - week 2: refine the charts and story outline; transferred it to Shorthand 
