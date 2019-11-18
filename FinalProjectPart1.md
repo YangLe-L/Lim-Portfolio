@@ -13,13 +13,14 @@ As a reader, I want to lobby for a more sensible healthcare system so that I can
 
 Another aim is to see if I can redesign my original visualizations to make it better for consumption by the general public. I want to test if I can make academic research more acceptable to them.  
 
-### Structure of Storyline (from Good Charts text)
-- Setup: This is the parts of a healthcare system 
-- Conflict: America is not doing well compared to other countries and the debate on healthcare is not in the right direction 
-- Resolution: The debate on healthcare should change to focus in another direction. 
+### Structure of Storyline 
+- Setup: This is the current debate on healthcare system reforms (Republican vs Democrat) 
+- Conflict 1: Republican ideas are not aligned with the conventional healthcare policies worldwide.
+- Conflict 2: Democrat idea of Medicare-for-all might not work as well as planned. 
+- Resolution: There are better ways to reform the healthcare system (e.g. focusing on primary healthcare)  
 
 ## B.Data
-The dataset I am using is from my undergraduate thesis research. 
+The main dataset I am using is from my undergraduate thesis research. Other data that I am still looking for related to the resolution and Medicare-for-all portion.  
 
 #### [Academic Website](https://repository.ntu.edu.sg/handle/10356/76200)
 
@@ -57,6 +58,6 @@ The plan for the next two weeks are:
 - week 2: refine the charts and story outline; transferred it to Shorthand 
 
 ## D.Initial Sketches
-
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/IMG_0609.jpg)
 
 
