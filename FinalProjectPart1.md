@@ -34,7 +34,7 @@ Taken from [2013 OECD data](https://stats.oecd.org/index.aspx?queryid=30183) unl
 
 - Real output --> health outcome. Taken from [OECD’s Health Care Quality Indicators project (HCQI)](http://www.oecd.org/els/health-systems/health-care-quality-indicators.html) unless othwe wise stated in Picture B below. Half of the real output refers to primary care and other half refers to acute care.
 
-This model was used to compare between the different health systems from source C.E.g. the ratio betwwen monetary input and real input of USA is compared to the UK to see how efficient the money is used to pay for healthcare provision.    
+This model was used to compare between the different health systems. E.g. the ratio betwwen monetary input and real input of USA is compared to the UK to see how efficient the money is used to pay for healthcare provision.    
 
 ![A. Healthcare Production Process](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/healthcare%20process.JPG)
 
@@ -46,10 +46,10 @@ Source B: Taken from my thesis; for the exact citation, refer to the pdf file.
 
 The exisitng vizualizations will be redesigned as it will probably need to more streamlined to be more persuasive. Currently, they have too much infomarmation and less specific to the US audience. The vizualizations will focus on on how the American perfrom relative to the other systems. Depending of the length of the story, I might be doing a deeper dive in the 'regulation' indicator to see if there are additional insights for America.  
 
-
-
 ## C.Method and Medium
-I will be using Shorthand to show my story. 
+I will be using Shorthand to show my story. The plan for the next two weeks are:
+- week 1: generating the charts with story outline for feedback
+- week 2: refine the charts and story outline; transferred it to Shorthand 
 
 ## D.Initial Sketches
 
