@@ -22,8 +22,7 @@ The dataset I am using is from my undergraduate thesis research.
 
 #### [PDF Acess to my Thesis](/FYP_LIM YANG LE.pdf)
 
-#### [Healthcare System Type](http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf)
-(Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165.)
+#### [Healthcare System Type](http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf) (Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165.)
 
 #### [Raw dataset](https://drive.google.com/drive/folders/1JKWSXGfJOcLVwoOWvzlEg3Vd_PO5TYaO?usp=sharing)
 
