@@ -22,8 +22,10 @@ The dataset I am using is from my undergraduate thesis research.
 
 #### [PDF Acess to my Thesis](/FYP_LIM YANG LE.pdf)
 
-#### [Healthcare System Type](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Classifying%20OECD.pdf)
-(Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165. Retrieved from http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf)
+#### [Healthcare System Type](http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf)
+(Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165.)
+
+#### [Raw dataset](https://drive.google.com/drive/folders/1JKWSXGfJOcLVwoOWvzlEg3Vd_PO5TYaO?usp=sharing)
 
 Picture A was the model that I worked on in my thesis.  Each step in the model contains several indicators.
 - Monetary input --> Total health expenditure as a percentage of Gross Domestic Product (GDP); Expenditure on a per capita basis and government’s share of the expenditure. Taken from [WHO (2013). Global Health Expenditure Database.] (http://apps.who.int/nha/database/Select/Indicators/en)
@@ -43,11 +45,9 @@ Source A: Taken from my thesis; Adapted from Wendt, C., & Kohl, J. (2010). Trans
 
 Source B: Taken from my thesis; for the exact citation, refer to the pdf file.
 
-
-
 The exisitng vizualizations will be redesigned as it will probably need to more streamlined to be more persuasive. Currently, they have too much infomarmation and less specific to the US audience. The vizualizations will focus on on how the American perfrom relative to the other systems. Depending of the length of the story, I might be doing a deeper dive in the 'regulation' indicator to see if there are additional insights for America.  
 
-[To access raw dataset](https://drive.google.com/drive/folders/1JKWSXGfJOcLVwoOWvzlEg3Vd_PO5TYaO?usp=sharing)
+
 
 ## C.Method and Medium
 I will be using Shorthand to show my story. 
