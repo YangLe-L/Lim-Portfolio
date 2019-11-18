@@ -8,6 +8,8 @@ I will be using a model that I have modified for my undergraduate thesis to deri
 ### Aim
 As a reader, I want to lobby for a more sensible healthcare system so that I can receive better healthcare quality and experience lower healthcare cost.    
 
+I find that the discussion on healthcare reforms in any country tend to be domestic in scope. It would have been better if international examples are brought in for a comparative analysis.
+
 Another aim is to see if I can redesign my original visualizations to make it better for consumption by the general public. I want to test if I can make academic research more acceptable to them.  
 
 ### Structure of Storyline (from Good Charts text)
