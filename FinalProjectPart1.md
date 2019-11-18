@@ -43,7 +43,7 @@ Source A: Taken from my thesis; Adapted from Wendt, C., & Kohl, J. (2010). Trans
 
 Source B: Taken from my thesis; for the exact citation, refer to the pdf file.
 
-![C. Healthcare System Type](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Classifying%20OECD.pdf)
+[C. Healthcare System Type](https://github.com/YangLe-L/Lim-Portfolio/blob/master/Classifying%20OECD.pdf)
 
 Source C: Taken from my thesis; Böhm, K., Schmid, A., Götze, R., Landwehr, C., & Rothgang, H. (2012). Classifying OECD healthcare systems: A deductive approach. TranState Working Papers,165. Retrieved from http://edoc.vifapol.de/opus/volltexte/2012/4221/pdf/AP_165_2012.pdf
 
