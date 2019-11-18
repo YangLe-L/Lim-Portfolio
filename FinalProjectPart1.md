@@ -24,11 +24,18 @@ The dataset I am using is from my undergraduate thesis research.
 
 [PDF Acess to my Thesis](/FYP_LIM YANG LE.pdf)
 
-This is the model that I was working on in my thesis. 
+This was the model that I worked on in my thesis. This model was used to compare between the different health systems. Each step in the model contains several indicators.
+
+Monetary input --> Total health expenditure as a percentage of Gross Domestic Product (GDP); Expenditure on a per capita basis and government’s share of the expenditure. Taken from [WHO (2013). Global Health Expenditure Database.] (http://apps.who.int/nha/database/Select/Indicators/en)
+
+Real input 
+E.g. the ratio betwwen monetary input and real input of USA is compared to the UK to see the effeciciency of the health care system.    
 
 ![Healthcare Production Process](https://github.com/YangLe-L/Lim-Portfolio/blob/master/healthcare%20process.JPG)
 
 Source: Taken from my thesis; Adapted from Wendt, C., & Kohl, J. (2010). Translating monetary inputs into health care provision: A comparative analysis of the impact of different modes of public policy. Journal of Comparative Policy Analysis, 12(1/2), 11-31.
+
+
 
 Besides redesigning the exisitng vizualizations, I will be going to do a deeper dive in the 'regulation' indicator  
 
