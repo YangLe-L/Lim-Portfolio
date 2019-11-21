@@ -1,6 +1,8 @@
 # Final Project Part 1 Version 1
 [Back to Main Page](https://yangle-l.github.io/Lim-Portfolio)
 
+[Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
+
 ## A.Outline
 ### High-level summary: The United States is not prioritizing on the right solutions when it comes to dealing with the problems in the healthcare industry.
 
