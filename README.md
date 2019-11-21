@@ -23,6 +23,6 @@ From this data visualization course, I hope to learn ways to improve my ability 
 
 [2. Data Viz 3&4](/Dataviz3&4.md)
 
-[3. Final Project Part 1 Version 1](/FinalProjectPart1(V1).md)
+[3. Final Project Part 1 Version 1](/FinalProjectPart1_V1.md)
 
-[4. Final Project Part 1 Version 2](/FinalProjectPart1(V2).md)
+[4. Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
