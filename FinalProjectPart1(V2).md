@@ -17,7 +17,9 @@ As a reader, I want to identify/prioritize the waste that I can tackle by creati
 - Resolution: What is the level of waste saved by current solutions? 
 
 ## B. Data
-The main dataset came from this paper which is a recent estimate of the healthcare waste: Shrank WH, Rogstad TL, Parekh N. Waste in the US Health Care System: Estimated Costs and Potential for Savings. JAMA. 2019;322(15):1501–1509. [Paper Website](doi:https://doi.org/10.1001/jama.2019.13978) 
+The main dataset came from this paper which is a recent estimate of the healthcare waste: Shrank WH, Rogstad TL, Parekh N. Waste in the US Health Care System: Estimated Costs and Potential for Savings. JAMA. 2019;322(15):1501–1509. doi:https://doi.org/10.1001/jama.2019.13978) 
+
+#### [Paper Website](https://doi.org/10.1001/jama.2019.13978) 
 
 #### [PDF Acess](/jama_shrank_2019_sc_190005.pdf)
 
