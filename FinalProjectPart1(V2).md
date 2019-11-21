@@ -35,6 +35,6 @@ The plan for the next two weeks are:
 - week 2: refine the charts and story outline; transferred it to Shorthand 
 
 ## D.Initial Sketches
-![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/IMG_0609.jpg)
-![2.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/IMG_0612.jpg)
-![3.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/IMG_0613.jpg)
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/IMG_0619.jpg)
+![2.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/IMG_0620.jpg)
+![3.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/IMG_0621.jpg)
