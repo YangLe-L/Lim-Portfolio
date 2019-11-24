@@ -34,16 +34,29 @@ Is there any additional information you would like to know? | Content column 2
 
 Question     | Answer 
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+Can you describe to me what the storyline is telling you?  | Content cell 2
+Assuming the content is complete and accurate, does the content (visualizations/text) support its title?| Content column 2
+Does the storyline flow smoothly? Is there is a problem with the arrangement of the cards? | Content column 2
+Who do you think is the intended audience? If this is not clear, are there ways to make it clearer? | Content column 2
+Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend? | Content column 2
+Is there anything you find surprising or confusing? | Content column 2
+Is there anything you would change or do differently? | Content column 2
+Is there any additional information you would like to know? | Content column 2
 
 
 3rd Person: Heinz student studying healthcare management who has not worked in the healthcare industry (proxy for citizens who are engaged with current affairs)  
 
 Question     | Answer 
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+Can you describe to me what the storyline is telling you?  | Content cell 2
+Assuming the content is complete and accurate, does the content (visualizations/text) support its title?| Content column 2
+Does the storyline flow smoothly? Is there is a problem with the arrangement of the cards? | Content column 2
+Who do you think is the intended audience? If this is not clear, are there ways to make it clearer? | Content column 2
+Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend? | Content column 2
+Is there anything you find surprising or confusing? | Content column 2
+Is there anything you would change or do differently? | Content column 2
+Is there any additional information you would like to know? | Content column 2
+
 
 ## C. Revised wireframes / visualizations / storyboards
 
