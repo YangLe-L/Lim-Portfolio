@@ -18,7 +18,7 @@ I interviewed Heinz students of various background who act as a proxy for the va
 
 #### 1st Person: Heinz student studying healthcare management who has worked in the healthcare industry before (proxy for audience in the healthcare industry)    
 
-Question     | Answer 
+Question     |Answer 
 ------------ | -------------
 Can you describe to me what the storyline is telling you?  | Content cell 2
 Assuming the content is complete and accurate, does the content (visualizations/text) support its title?| Content column 2
