@@ -14,14 +14,21 @@ I am targetting four types of audiences.
 * Healthcare industry practitioners
 * Heinz course classmates 
 
-I interviewed Heinz students who act as a proxy for the various audiences.
+I interviewed Heinz students of various background who act as a proxy for the various audiences. The questions will primarily be focusing on the logical flow  and the persuasivness of the storyline. 
 
 1st Person: Heinz student studying healthcare management who has worked in the healthcare industry before (proxy for audience in the healthcare industry)    
 
 Question     | Answer 
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+Can you describe to me what the storyline is telling you?  | Content cell 2
+Assuming the content is complete and accurate, does the content (visualizations/text) support its title?| Content column 2
+Does the storyline flow smoothly? Is there is a problem with the arrangement of the cards? | Content column 2
+Who do you think is the intended audience? If this is not clear, are there ways to make it clearer? | Content column 2
+Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend? | Content column 2
+Is there anything you find surprising or confusing? | Content column 2
+Is there anything you would change or do differently? | Content column 2
+Is there any additional information you would like to know? | Content column 2
+
 
 2nd Person: Heinz student studying public policy who has no particular interest in healthcare (proxy for classmates and citizens who are not engaged with current affairs)   
 
