@@ -26,3 +26,5 @@ From this data visualization course, I hope to learn ways to improve my ability 
 [3. Final Project Part 1 Version 1](/FinalProjectPart1_V1.md)
 
 [4. Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
+
+[5. Final Project Part 2](/FinalProjectPart2.md)
