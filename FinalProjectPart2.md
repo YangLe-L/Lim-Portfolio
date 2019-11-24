@@ -9,5 +9,11 @@
 
 ## B. User Research 
 
+1st Person 
+Question | Answer 
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
+
 ## C. Revised wireframes / visualizations / storyboards
 
