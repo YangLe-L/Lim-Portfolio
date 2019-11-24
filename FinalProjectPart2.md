@@ -22,6 +22,7 @@ Content cell 1 | Content cell 2
 Content column 1 | Content column 2
 
 2nd Person: Heinz student studying public policy who has no particular interest in healthcare (proxy for classmates and citizens who are not engaged with current affairs)   
+
 Question     | Answer 
 ------------ | -------------
 Content cell 1 | Content cell 2
