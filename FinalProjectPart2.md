@@ -14,7 +14,7 @@ I am targetting four types of audiences.
 * Healthcare industry practitioners
 * Heinz course classmates 
 
-I interviewed Heinz students of various background who act as a proxy for the various audiences. The questions will primarily be focusing on the logical flow  and the persuasivness of the storyline. 
+I interviewed Heinz students of various background who act as a proxy for the various audiences. The questions will primarily be focusing on the logical flow and the persuasiveness of the storyline to inspire action. 
 
 #### 1st Person: Heinz student studying healthcare management who has worked in the healthcare industry before (proxy for audience in the healthcare industry)    
 
