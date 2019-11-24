@@ -8,11 +8,13 @@
 ## A. Wireframe/Storyboard
 
 ## B. User Research 
-I am targetting 3 types of audiences. 
-* Citizens who may or may not be engaged with current affairs
-* Healthcare industry practictioners
+I am targetting four types of audiences. 
+* Citizens who are engaged with current affairs
+* Citizens who are not engaged with current affairs
+* Healthcare industry practitioners
 * Heinz course classmates 
 
+I interviewed Heinz students who act as a proxy for the various audiences.
 
 1st Person: Heinz student studying healthcare management who has worked in the healthcare industry before (proxy for audience in the healthcare industry)    
 
