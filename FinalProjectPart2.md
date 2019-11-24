@@ -16,7 +16,7 @@ I am targetting four types of audiences.
 
 I interviewed Heinz students of various background who act as a proxy for the various audiences. The questions will primarily be focusing on the logical flow  and the persuasivness of the storyline. 
 
-1st Person: Heinz student studying healthcare management who has worked in the healthcare industry before (proxy for audience in the healthcare industry)    
+#### 1st Person: Heinz student studying healthcare management who has worked in the healthcare industry before (proxy for audience in the healthcare industry)    
 
 Question     | Answer 
 ------------ | -------------
@@ -30,7 +30,7 @@ Is there anything you would change or do differently? | Content column 2
 Is there any additional information you would like to know? | Content column 2
 
 
-2nd Person: Heinz student studying public policy who has no particular interest in healthcare (proxy for classmates and citizens who are not engaged with current affairs)   
+#### 2nd Person: Heinz student studying public policy who has no particular interest in healthcare (proxy for classmates and citizens who are not engaged with current affairs)   
 
 Question     | Answer 
 ------------ | -------------
@@ -44,7 +44,7 @@ Is there anything you would change or do differently? | Content column 2
 Is there any additional information you would like to know? | Content column 2
 
 
-3rd Person: Heinz student studying healthcare management who has not worked in the healthcare industry (proxy for citizens who are engaged with current affairs)  
+#### 3rd Person: Heinz student studying healthcare management who has not worked in the healthcare industry (proxy for citizens who are engaged with current affairs)  
 
 Question     | Answer 
 ------------ | -------------
