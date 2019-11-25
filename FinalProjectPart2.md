@@ -6,6 +6,7 @@
 [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
 
 ## A. Wireframe/Storyboard
+### [Click here for Wireframe 1](/Wireframe1.md)
 
 ## B. User Research 
 I am targetting these types of audiences and its corresponding call-to-action 
@@ -30,7 +31,7 @@ I interviewed Heinz students of various background who act as a proxy for the va
  * *Is there any additional information you would like to know?*  
  * *Imagine that you are working in the healthcare industry, do you think that the storyline is persuasive enough to inspire you to take action? (for the person who had worked in the healthcare sector)*  
 
-### [Click here for the full interview transcripts](/User_Research.md)
+### [Click here for the full interview transcript](/User_Research.md)
 
 ### Key Pointers From Feedbackers & Changes Made
 The following are the feedback collected from Heinz students.
