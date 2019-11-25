@@ -32,12 +32,21 @@ I interviewed Heinz students of various background who act as a proxy for the va
 
 ### [Click here for the full interview transcripts](/User_Research.md)
 
-### Key Pointers & Changes Made
+### Key Pointers From Feedbackers & Changes Made
+The following are the feedback collected from Heinz students.
 
 Key Feedback     | Changes Made 
----------------- | -------------
-All of the feedbackers can understand the storyline and commented that it flows smoothly.|NA
-All the feedbackers also reflected that the title matches the content (visualizations and text).|NA
+------------ | -------------
+All of the feedbackers can understand the storyline and commented that it flows smoothly. | NA
+All the feedbackers also reflected that the title matches the content (visualizations and text). | NA
+The comparison of healthcare waste to the defense budget was surprising for a lot of them.  Providing a comparable reference to   | NA
+Many pointed out that the intended audience is the legislators who may not be clear about the waste situation. Those close in the industry (federal agencies) are typically aware of the situation.   | Adding legislators and call to action to the audience list.
+One feedbacker suggested that healthcare practitioners might not be persuaded as their high income depended on the high wastage from others. | Some healthcare actors are still incentivized by the market to cut waste, like insurance companies that need cheaper hospital services to earn more profit. As such, I will aim to target those healthcare actors who do not profit from the waste about the need for them to use their market power to effect change in the healthcare system. 
+One feedback suggested that the story after card 7 should have lesser text. | The second half of the stories revolve around solutions and call to actions; as such it is hard to add visualizations. So far, I can only add a dot chart to card 8. 
+One feedbacker noted that in Card 3, when comparing between the USA with waste and the USA without waste,  the size of the waste could have been emphasized with numbers and colors. | In the first bar of USA with waste, highlight the amount of waste in the bar with color and add in the proportion. If this is the case, cards 3 & 4 can be combined as the pie chart is just repeated the information in the bar chart.
+Two feedbackers noted the need for a clearer call to action. The call to actions did not seem to match the information given. For example,  interventions in the story are likely for physicians and public servants but the call to action was only referring to students and citizens. | The call to action in the original wireframe was meant for the class presentation and hence did not take into consideration of the other audience. I will change the language of the call to action to be more specific andAdd in the call to action to physicians and legislators. 
+One feedbacker pointed out to define expenditure accurately as it can mean different things to different people | Place the definition in the first visualization or text. (total health expenditure(public and private spending).
+
 
 
 
