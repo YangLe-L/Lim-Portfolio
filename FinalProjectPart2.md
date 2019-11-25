@@ -63,5 +63,6 @@ One feedbacker pointed out to define expenditure accurately as it can mean diffe
   * Lobby the legislators to cut down a specific waste problem at the federal or local level.  
 * Healthcare industry practitioners
   * Persuading them to play a part in changing old practices as the waste problem is getting too serious.
+  * Use their market power to push for lower cost in the healthcare system.
 * Legislators 
   * Understand the seriousness of the waste problem in the healthcare system and create laws to lower it.  
