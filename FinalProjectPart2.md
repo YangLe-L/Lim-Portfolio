@@ -33,6 +33,7 @@ I interviewed Heinz students of various background who act as a proxy for the va
 ### [Click here for the full interview transcripts](/User_Research.md)
 
 ### Key Pointers & Changes Made
+
 Key Feedback     | Changes Made 
 ---------------- | -------------
 1.	All of the feedbackers can understand the storyline and commented that it flows smoothly. | NA
