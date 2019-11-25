@@ -26,7 +26,7 @@ I interviewed Heinz students of various background who act as a proxy for the va
  * *Is there any additional information you would like to know?*  
  * *Imagine that you are working in the healthcare industry, do you think that the storyline is persuasive enough to inspire you to take action? (for the person who had worked in the healthcare sector)*  
 
-### [Click here for the full interview transcripts](https://yangle-l.github.io/User_Research.md)
+### [Click here for the full interview transcripts](/User_Research.md)
 
 ### Key pointers
 
