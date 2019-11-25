@@ -29,7 +29,7 @@ Questions
 
 #### 1st Person: Heinz student studying healthcare management who has worked in the healthcare industry before (proxy for audience in the healthcare industry)    
 
-![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/healthcare worker.png)
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/healthcare%20worker.png)
 
 Question     |Answer 
 ------------ | -------------
