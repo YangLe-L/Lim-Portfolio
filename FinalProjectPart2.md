@@ -36,8 +36,8 @@ I interviewed Heinz students of various background who act as a proxy for the va
 
 Key Feedback     | Changes Made 
 ---------------- | -------------
-1.	All of the feedbackers can understand the storyline and commented that it flows smoothly. | NA
-2.	All the feedbackers also reflected that the title matches the content (visualizations and text). | NA
+1.	All of the feedbackers can understand the storyline and commented that it flows smoothly.|NA
+2.	All the feedbackers also reflected that the title matches the content (visualizations and text).|NA
 
 
 
