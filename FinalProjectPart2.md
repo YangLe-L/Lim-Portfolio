@@ -8,12 +8,16 @@
 ## A. Wireframe/Storyboard
 
 ## B. User Research 
-I am targetting these types of audiences. 
-* Heinz course classmates/
+I am targetting these types of audiences and its corresponding call-to-action 
+* Heinz course classmates
+  * If they join the healthcare industry, use the skills that they learned (e.g. analytics) in Heinz to help their employers (public and private) avoid healthcare waste spending.
+  * Create a business solution to solve a particular waste in the healthcare industry. 
 * Citizens who may or may not be engaged with current affairs
+  * Lobby the legislators to tackle a specific waste problem at the federal or local level.  
 * Healthcare industry practitioners
+  * Persuading them to play a part in changing old practices as the waste problem is getting too serious   
 
-I interviewed Heinz students of various background who act as a proxy for the various audiences. The questions will primarily be focusing on the logical flow and the persuasiveness of the storyline to inspire action. 
+I interviewed Heinz students of various background who act as a proxy for the various audiences. Any Heinz student can represent the citizens. Those students from the healthcare management degree can help to derive insights for the healthcare industry practitioners  The questions will primarily be focusing on the logical flow and the persuasiveness of the storyline to inspire action. 
 
 ### Questions     
  * *Can you describe to me what the storyline is telling you?*  
@@ -28,7 +32,11 @@ I interviewed Heinz students of various background who act as a proxy for the va
 
 ### [Click here for the full interview transcripts](/User_Research.md)
 
-### Key pointers
+### Key Pointers & Changes Made
+Key Feedback     | Changes Made 
+------------ | -------------
+1.	All of the feedbackers can understand the storyline and commented that it flows smoothly. | NA
+2.	All the feedbackers also reflected that the title matches the content (visualizations and text). | NA
 
 
 
