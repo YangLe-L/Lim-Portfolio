@@ -8,6 +8,8 @@
 ## A. Wireframe/Storyboard
 ### [Click here for Wireframe 1](/Wireframe1.md)
 
+The wireframe is created by using index cards. Each card will represent one idea. It will contain a title and corresponding visualizations and text. The visualizations and text are just a preview of the final version in shorthand, so there will be more visualizations and longer text in the final product. Some text like card 6 is used to organize thoughts; hence they may not appear in shorthand.
+
 ## B. User Research 
 I am targetting these types of audiences and its corresponding call-to-action 
 * Heinz course classmates
