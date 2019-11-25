@@ -10,6 +10,8 @@
 
 The wireframe is created by using index cards. Each card will represent one idea. It will contain a title and corresponding visualizations and text. The visualizations and text are just a preview of the final version in shorthand, so there will be more visualizations and longer text in the final product. Some text like card 6 is used to organize thoughts; hence they may not appear in shorthand.
 
+Some of the visualizations used the dataset from the report mentioned in [part 1 (V2) of this final project](/FinalProjectPart1_V2.md). 
+
 ## B. User Research 
 I am targetting these types of audiences and its corresponding call-to-action 
 * Heinz course classmates
@@ -18,7 +20,7 @@ I am targetting these types of audiences and its corresponding call-to-action
 * Citizens who may or may not be engaged with current affairs
   * Lobby the legislators to tackle a specific waste problem at the federal or local level.  
 * Healthcare industry practitioners
-  * Persuading them to play a part in changing old practices as the waste problem is getting too serious   
+  * Persuading them to play a part in changing old practices as the waste problem is getting too serious.   
 
 I interviewed Heinz students of various background who act as a proxy for the various audiences. Any Heinz student can represent the citizens. Those students from the healthcare management degree can help to derive insights for the healthcare industry practitioners  The questions will primarily be focusing on the logical flow and the persuasiveness of the storyline to inspire action. 
 
@@ -47,13 +49,10 @@ Many pointed out that the intended audience is the legislators who may not be cl
 One feedbacker suggested that healthcare practitioners might not be persuaded as their high income depended on the high wastage from others. | Some healthcare actors are still incentivized by the market to cut waste, like insurance companies that need cheaper hospital services to earn more profit. As such, I will aim to target those healthcare actors who do not profit from the waste about the need for them to use their market power to effect change in the healthcare system. 
 One feedback suggested that the story after card 7 should have lesser text. | The second half of the stories revolve around solutions and call to actions; as such it is hard to add visualizations. So far, I can only add a dot chart to card 8. 
 One feedbacker noted that in Card 3, when comparing between the USA with waste and the USA without waste,  the size of the waste could have been emphasized with numbers and colors. | In the first bar of USA with waste, highlight the amount of waste in the bar with color and add in the proportion. If this is the case, cards 3 & 4 can be combined as the pie chart is just repeated the information in the bar chart.
-Two feedbackers noted the need for a clearer call to action. The call to actions did not seem to match the information given. For example,  interventions in the story are likely for physicians and public servants but the call to action was only referring to students and citizens. | The call to action in the original wireframe was meant for the class presentation and hence did not take into consideration of the other audience. I will change the language of the call to action to be more specific andAdd in the call to action to physicians and legislators. 
+Two feedbackers noted the need for a clearer call to action. The call to actions did not seem to match the information given. For example,  interventions in the story are likely for physicians and public servants but the call to action was only referring to students and citizens. | The call to action in the original wireframe was meant for the class presentation and hence did not take into consideration of the other audience. I will change the language of the call to action to be more specific and add in the call to action for physicians and legislators. 
 One feedbacker pointed out to define expenditure accurately as it can mean different things to different people | Place the definition in the first visualization or text. (total health expenditure(public and private spending).
 
 
-
-
-
-
 ## C. Revised wireframes / visualizations / storyboards
-
+#### Overall, the feedback for the wireframe is quite positive and only require minimal changes to the audience list and some cards
+#### Edits to Audience List
