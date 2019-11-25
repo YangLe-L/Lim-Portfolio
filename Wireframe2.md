@@ -8,28 +8,27 @@
 [Final Project Part 2](/FinalProjectPart2.md)
 
 ## Card 1
-![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/1.jpeg)
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/18.jpeg)
 ## Card 2
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/2.jpeg)
 ## Card 3 (from the report)
-![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/3.jpeg)
-## Card 4 (from the report)
-![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/4.jpeg)
-## Card 5 (from the report)
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/19.jpeg)
+## Card 4  (from the report)
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/5.jpeg)
-## Card 6
+## Card 5
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/6.jpeg)
+## Card 6
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/20.jpeg)
 ## Card 7
-![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/7.jpeg)
-## Card 8
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/8.jpeg)
-## Card 9
+## Card 8
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/9.jpeg)
-## Card 10 (from the report)
+## Card 9 (from the report)
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/10.jpeg)
-## Card 11 (from the report)
+## Card 10 (from the report)
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/11.jpeg)
+## Card 11 
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/21.jpeg)
 ## Card 12
-![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/12.jpeg)
-## Card 13
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/13.jpeg)
+
