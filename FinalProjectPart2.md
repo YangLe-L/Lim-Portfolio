@@ -16,15 +16,15 @@ I am targetting these types of audiences.
 I interviewed Heinz students of various background who act as a proxy for the various audiences. The questions will primarily be focusing on the logical flow and the persuasiveness of the storyline to inspire action. 
 
 Questions     
- * Can you describe to me what the storyline is telling you?  
- * Assuming the content is complete and accurate, does the content (visualizations/text) support its title?
- * Does the storyline flow smoothly? Is there is a problem with the arrangement of the cards?
- * Who do you think is the intended audience? If this is not clear, are there ways to make it clearer?
- * Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend?
- * Is there anything you find surprising or confusing?
- * Is there anything you would change or do differently? 
- * Is there any additional information you would like to know?
- * Imagine that you are working in the healthcare industry, do you think that the storyline is persuasive enough to inspire you to take action? (for the person who had worked in the healthcare sector)
+ * *Can you describe to me what the storyline is telling you?  
+ * *Assuming the content is complete and accurate, does the content (visualizations/text) support its title?
+ * *Does the storyline flow smoothly? Is there is a problem with the arrangement of the cards?
+ * *Who do you think is the intended audience? If this is not clear, are there ways to make it clearer?
+ * *Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend?
+ * *Is there anything you find surprising or confusing?
+ * *Is there anything you would change or do differently? 
+ * *Is there any additional information you would like to know?
+ * *Imagine that you are working in the healthcare industry, do you think that the storyline is persuasive enough to inspire you to take action? (for the person who had worked in the healthcare sector)
 
 #### 1st Person: Heinz student studying healthcare management who has worked in the healthcare industry before (proxy for audience in the healthcare industry)    
 
