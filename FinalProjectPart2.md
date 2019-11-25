@@ -10,7 +10,7 @@
 
 The wireframe is created by using index cards. Each card will represent one idea. It will contain a title and corresponding visualizations and text. The visualizations and text are just a preview of the final version in shorthand, so there will be more visualizations and longer text in the final product. Some text like card 6 is used to organize thoughts; hence they may not appear in shorthand.
 
-Some of the visualizations used the dataset from the report mentioned in [part 1 (V2) of this final project](/FinalProjectPart1_V2.md). 
+Some of the visualizations used the dataset mentioned in [part 1 (V2) of this final project](/FinalProjectPart1_V2.md). 
 
 ## B. User Research 
 I am targetting these types of audiences and its corresponding call-to-action 
@@ -54,5 +54,14 @@ One feedbacker pointed out to define expenditure accurately as it can mean diffe
 
 
 ## C. Revised wireframes / visualizations / storyboards
-#### Overall, the feedback for the wireframe is quite positive and only require minimal changes to the audience list and some cards
-#### Edits to Audience List
+#### Overall, the feedback for the wireframe is quite positive and only require minimal changes to the audience list and visualizations. 
+#### New Audience List
+* Heinz course classmates
+  * If they join the healthcare industry, use the skills that they learned (e.g. analytics) in Heinz to help their employers (public and private) avoid healthcare waste spending.
+  * Create a business solution to solve a particular waste in the healthcare industry. 
+* Citizens who may or may not be engaged with current affairs
+  * Lobby the legislators to cut down a specific waste problem at the federal or local level.  
+* Healthcare industry practitioners
+  * Persuading them to play a part in changing old practices as the waste problem is getting too serious.
+* Legislators 
+  * Understand the seriousness of the waste problem in the healthcare system and create laws to lower it.  
