@@ -54,7 +54,7 @@ One feedbacker pointed out to define expenditure accurately as it can mean diffe
 
 
 ## C. Revised wireframes / visualizations / storyboards
-#### Overall, the feedback for the wireframe is quite positive and only require minimal changes to the audience list and visualizations. 
+#### Overall, the feedback for the wireframe is quite positive and only require small changes to the audience list and visualizations. 
 #### New Audience List
 * Heinz course classmates
   * If they join the healthcare industry, use the skills that they learned (e.g. analytics) in Heinz to help their employers (public and private) avoid healthcare waste spending.
