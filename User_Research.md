@@ -26,7 +26,8 @@ Is there anything you would change or do differently? | I don’t think so, I th
 Is there any additional information you would like to know? | I would like to know how by how much US health care costs would drop without waste. The third slide shows a bar graph with the first bar that represents US health care costs and the second with a bar that shows US healthcare costs without waste. It would be helpful to know the numerical difference between the first bar and the second bar. Also, If the colors of waste could be added to the first part of the bar graph that could be a helpful visual.   
 
 ## 3rd Person: Heinz student studying public policy who has no particular interest in healthcare (proxy for classmates and citizens) 
-uestion     | Answer 
+
+Question     | Answer 
 ------------ | -------------
 Can you describe to me what the storyline is telling you?  | The U.S. is spending too much money on health care compared to other countries but are not getting proportionate results. This is due to inefficiencies and poor allocation of money. Action should be implemented quickly to fix this because millions of dollars are wasted for every moment we don’t act.
 Assuming the content is complete and accurate, does the content (visualizations/text) support its title?| The content of each card clearly supports the title of each card.
@@ -39,7 +40,8 @@ Is there any additional information you would like to know? | Maybe a clearer ca
 
 
 ## 4th Person: Heinz student studying public policy who has no particular interest in healthcare (proxy for classmates and citizens) 
-uestion     | Answer 
+
+Question     | Answer 
 ------------ | -------------
 Can you describe to me what the storyline is telling you?  | How much the U.S. Healthcare system wastes and how it negatively impacts the costs the US has in comparison to other countries (as a percentage of GDP).  
 Assuming the content is complete and accurate, does the content (visualizations/text) support its title?| Yes; however, some cards can be improved. The concept of Healthcare expenditure is a bit unclear. Consumer expenditure? Government spending? It should be clarified a bit to understand the nature of costs here, as we see later on in the slidedeck the portion of interventions focused on public sector choices. 
