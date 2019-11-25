@@ -9,3 +9,27 @@
 
 ## Card 1
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/1.jpeg)
+## Card 2
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/2.jpeg)
+## Card 3
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/3.jpeg)
+## Card 4
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/4.jpeg)
+## Card 5
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/5.jpeg)
+## Card 6
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/6.jpeg)
+## Card 7
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/7.jpeg)
+## Card 8
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/8.jpeg)
+## Card 9
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/9.jpeg)
+## Card 10
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/10.jpeg)
+## Card 11
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/11.jpeg)
+## Card 12
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/12.jpeg)
+## Card 13
+![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/13.jpeg)
