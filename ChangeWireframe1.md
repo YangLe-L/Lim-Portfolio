@@ -7,22 +7,22 @@
 
 [Final Project Part 2](/FinalProjectPart2.md)
 
-## Change to Card 1
+## Change to Card 1 (highlight Orange is the change)
 One feedbacker pointed out to define expenditure accurately as it can mean different things to different people.
 
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/14.jpeg)
 
-## Change to Card 3
+## Change to Card  4 & 5
 One feedbacker noted that in Card 3, when comparing between the USA with waste and the USA without waste, the size of the waste could have been emphasized with numbers and colors.
 
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/15.jpeg)
 
-## Change to Card 4 & 5
+## Change to Card 7
 One feedback suggested that the story after card 7 should have lesser text.
 
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/16.jpeg)
 
-## Change to card 7
+## Change to card 12 (highlight Orange is the change)
 Two feedbackers noted the need for a clearer call to action. The call to actions did not seem to match the information given. For example,  interventions in the story are likely for physicians and public servants but the call to action was only referring to students and citizens. 
 
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/17.jpeg)
