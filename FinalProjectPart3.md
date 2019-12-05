@@ -7,12 +7,16 @@
 
 [Final Project Part 2](/FinalProjectPart2.md)
 
+## A. Final Data Story
 [Final Data Story](https://carnegiemellon.shorthandstories.com/healthcare-waste/index.html)
 
-## A. The Idea
-### The project outline, 'high-level summary of the project, project structure that outlines the major elements of my story is found in Part A of [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
+Title: 	Is The US Healthcare System Wasting Too Much Money? A Re-Look On The Extent Of The Monetary Waste
 
-- A short paragraph that documents my data source(s), and an explanation of how I plan on using my data is found in Part B of [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
+## A. The Idea (Origin)
+### The project outline, high-level summary, and project structure that outlines the major elements of my story remain the same. They are found in Part A of [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
+
+### My data source(s), and an explanation of how I plan on using my data
+In addtion to those found in Part B of [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md), 
 
 
 
