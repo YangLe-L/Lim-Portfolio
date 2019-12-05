@@ -7,6 +7,16 @@
 
 [Final Project Part 2](/FinalProjectPart2.md)
 
+[Final Project Part 3](/FinalProjectPart3.md)
+
+[Final Data Story](https://carnegiemellon.shorthandstories.com/healthcare-waste/index.html)
+
+# GitHub Link
+[Portfolio Repo](https://github.com/YangLe-L/Lim-Portfolio)
+
+[Github Profile](https://github.com/YangLe-L)
+
+
 ## Card 1
 ![1.](https://raw.githubusercontent.com/YangLe-L/Lim-Portfolio/master/1.jpeg)
 ## Card 2
