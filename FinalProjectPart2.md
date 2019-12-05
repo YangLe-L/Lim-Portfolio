@@ -5,6 +5,11 @@
 
 [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
 
+# GitHub Link
+[Portfolio Repo](https://github.com/YangLe-L/Lim-Portfolio)
+
+[Github Profile](https://github.com/YangLe-L)
+
 ## A. Wireframe/Storyboard
 ### [Click here for Wireframe 1](/Wireframe1.md)
 
