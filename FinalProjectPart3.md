@@ -43,8 +43,8 @@ In addition to those found in Part B of [Final Project Part 1 Version 2](/FinalP
 ## References 
 - “Government Spending Chart.” Government Spending Chart: United States 2006-2024 - Federal State Local Data. [https://www.usgovernmentspending.com/spending_chart_2006_2024USb_19s1li111mcn_F0f40t20t](https://www.usgovernmentspending.com/spending_chart_2006_2024USb_19s1li111mcn_F0f40t20t)
 - Berwick DM, Hackbarth AD. Eliminating Waste in US Health Care. JAMA. 2012;307(14):1513–1516. [doi:https://doi.org/10.1001/jama.2012.362](https://doi.org/10.1001/jama.2012.362)
-- Martin, Emmie. “6 Ways You Could Spend $1,000 Instead of on an IPhone X.” CNBC. CNBC, October 31, 2017. [https://www.cnbc.com/2017/10/31/6-things-you-could-do-with-1000-instead-of-buying-an-iphone-x.html] (https://www.cnbc.com/2017/10/31/6-things-you-could-do-with-1000-instead-of-buying-an-iphone-x.html) 
-- OECD (2019), Health spending (indicator). [https://data.oecd.org/healthres/health-spending.htm] (https://data.oecd.org/healthres/health-spending.htm) 
-- OECD (2019), Infant mortality rates (indicator).[https://data.oecd.org/healthstat/infant-mortality-rates.htm#indicator-chart] (https://data.oecd.org/healthstat/infant-mortality-rates.htm#indicator-chart) 
-- OECD (2019), Life expectancy at birth (indicator). [https://data.oecd.org/healthstat/life-expectancy-at-birth.htm#indicator-chart] (https://data.oecd.org/healthstat/life-expectancy-at-birth.htm#indicator-chart)
+- Martin, Emmie. “6 Ways You Could Spend $1,000 Instead of on an IPhone X.” CNBC. CNBC, October 31, 2017. [https://www.cnbc.com/2017/10/31/6-things-you-could-do-with-1000-instead-of-buying-an-iphone-x.html](https://www.cnbc.com/2017/10/31/6-things-you-could-do-with-1000-instead-of-buying-an-iphone-x.html) 
+- OECD (2019), Health spending (indicator). [https://data.oecd.org/healthres/health-spending.htm](https://data.oecd.org/healthres/health-spending.htm) 
+- OECD (2019), Infant mortality rates (indicator).[https://data.oecd.org/healthstat/infant-mortality-rates.htm#indicator-chart](https://data.oecd.org/healthstat/infant-mortality-rates.htm#indicator-chart) 
+- OECD (2019), Life expectancy at birth (indicator). [https://data.oecd.org/healthstat/life-expectancy-at-birth.htm#indicator-chart](https://data.oecd.org/healthstat/life-expectancy-at-birth.htm#indicator-chart)
 - Shrank WH, Rogstad TL, Parekh N. Waste in the US Health Care System: Estimated Costs and Potential for Savings. JAMA. 2019;322(15):1501–1509. [doi:https://doi.org/10.1001/jama.2019.13978](https://doi.org/10.1001/jama.2019.13978)
