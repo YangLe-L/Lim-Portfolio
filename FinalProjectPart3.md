@@ -7,7 +7,9 @@
 
 [Final Project Part 2](/FinalProjectPart2.md)
 
-## The idea
+[Final Data Story](https://carnegiemellon.shorthandstories.com/healthcare-waste/index.html)
+
+## A. The Idea
 
 The project outline (Part I)
 'A high-level summary of your project.  (Part I)
