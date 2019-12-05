@@ -30,3 +30,5 @@ From this data visualization course, I hope to learn ways to improve my ability 
 [5. Final Project Part 2](/FinalProjectPart2.md)
 
 [6. Final Project Part 3](/FinalProjectPart3.md)
+
+[7. Final Data Story](https://carnegiemellon.shorthandstories.com/healthcare-waste/index.html)
