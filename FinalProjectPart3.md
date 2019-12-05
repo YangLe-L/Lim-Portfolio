@@ -25,7 +25,7 @@ In addition to those found in Part B of [Final Project Part 1 Version 2](/FinalP
 - Used the federal budget data to compare with the healthcare waste to show the seriousness of the waste.
 - Used prices from a CNBC website to show how many things can be bought by saving on healthcare waste.
 
-**Links**
+**Links to dataset**
 1. [Healthcare waste and savings data](https://github.com/YangLe-L/Lim-Portfolio/blob/master/data-for-final-story/Waste%20and%20Savings%20Estimates%20(Shrank%2C%20Rogstad%20%26%20Parekh).xlsx)
 2. [healthcare expenditure per capita](https://github.com/YangLe-L/Lim-Portfolio/blob/master/data-for-final-story/spending%20per%20capita%20total%20healthcare%20spending.csv)
 3. [infant mortality rate](https://github.com/YangLe-L/Lim-Portfolio/blob/master/data-for-final-story/infant%20mortality%20rate.csv)
