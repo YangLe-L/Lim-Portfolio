@@ -13,9 +13,11 @@
 Title: [Is The US Healthcare System Wasting Too Much Money? A Re-Look On The Extent Of The Monetary Waste]
 
 ## A. The Idea (Origin)
-### A.1.The project outline, high-level summary, and project structure that outlines the major elements of my story remain the same. They are found in Part A of [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
+### A.1. My first idea was recorded in [Final Project Part 1 Version 1](/FinalProjectPart1_V1.md). I have to abandon the idea as I realized that the topic would not be able to create enough visualizations.   
 
-### A.2.My data source(s), an explanation of how I plan on using my data & links 
+### A.2.The project outline, high-level summary, and project structure that outlines the major elements of my story remain the same. They are found in Part A of [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
+
+### A.3.My data source(s), an explanation of how I plan on using my data & links 
 In addition to those found in Part B of [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md), I have included other datasets to complement the healthcare waste and savings data.
 - Used healthcare expenditure per capita, life expectancy, and infant mortality rate to show how the healthcare system is not cost-effective.
 - Used the federal budget data to compare with the healthcare waste to show the seriousness of the waste.
@@ -29,7 +31,9 @@ In addition to those found in Part B of [Final Project Part 1 Version 2](/FinalP
 5. [federal budget data](https://github.com/YangLe-L/Lim-Portfolio/blob/master/data-for-final-story/federal%20budget.xlsx)
 6. [CNBC prices](https://github.com/YangLe-L/Lim-Portfolio/blob/master/data-for-final-story/cnbc.com-6%20ways%20you%20could%20spend%201000%20instead%20of%20on%20an%20iPhone%20X.pdf)
 
-A few paragraphs summarizing your approach to the project (method and medium - Part I)
+### A.4.Approach to the project remains the same. It is found in Part C of [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
+
+
 Design and user research
 
 Sketches and storyboards (Part II)
