@@ -21,7 +21,7 @@ In addtion to those found in Part B of [Final Project Part 1 Version 2](/FinalPr
 - Used the federal budget data to compare with the healthcare waste to show the seriousness of the waste.
 - Used prices from a CNBC website to show how many things can be bought by saving on healthcare waste. 
 
-- [Healthcare waste and savings data](blob/master/data-for-final-story/Waste%20and%20Savings%20Estimates%20(Shrank%2C%20Rogstad%20%26%20Parekh).xlsx)
+- [Healthcare waste and savings data](/data-for-final-story/Waste%20and%20Savings%20Estimates%20(Shrank%2C%20Rogstad%20%26%20Parekh).xlsx)
 
 Link to the data used A link to the publicly-accessible data you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. (Part I)
 
