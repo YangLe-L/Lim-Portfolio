@@ -5,6 +5,10 @@
 
 [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
 
+[Final Project Part 3](/FinalProjectPart3.md)
+
+[Final Data Story](https://carnegiemellon.shorthandstories.com/healthcare-waste/index.html)
+
 # GitHub Link
 [Portfolio Repo](https://github.com/YangLe-L/Lim-Portfolio)
 
