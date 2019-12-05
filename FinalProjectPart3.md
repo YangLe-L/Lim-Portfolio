@@ -56,16 +56,21 @@ Thus, I reduced the types of audiences that I am targeting to keep my story succ
 
 ### C.2. Process & Learning points 
 1.	In Part 1, I was supposed to come up with the idea that I want to do visualization. This was a tough process as it is not always clear if the idea has the data to back it up.
+
 2.	 In Part 2, the idea is experimented on with storyboarding, wireframing and audience analysis. This step was beneficial to piece up the story parts together. The idea from part 1 was developed into a series of drawings, with each one carrying a part of the message. The drawings were seen by others to collect feedback. According to feedback, my story was clear and flowed smoothly. The main issue with my story was with the intended audience mentioned in my feedback was different from what I have planned.  
+
 3.	After Part 2 and in Part 3, the draft drawings were turned into digital visualizations. I have talked to more people regarding my audience. I decided to narrow the audience types for reasons mentioned above in part C.1.  I decided to streamline my message and remove excessive details like the case studies on potential solutions, as I wanted to focus on the seriousness of the issue. Adding case studies would make the story too technical for the layperson to consume.         
+
 4.	When I was creating my visualizations, I was trying to figure out how to diversify my charts. For some reason, bar charts can perfectly deliver my message succinctly. I experimented changing some of the bar charts into other charts like line graphs for showing the high amount of healthcare spending as compared to other countries. It failed in this case as it meant that there were more data points across time to confuse the message behind the visualization. Since this was counterproductive, I promptly stick with the chart that can best deliver the message. 
+
 5.	 I also realized that I was more restricted by the format of the raw data instead of the chart type. A considerable amount of time was spent to figure out how to change the format to get the desired chart. There are cases where it failed, and I had to stick with the second-best option, which happened to the bar chart on the insufficiency of the interventions to tackle the waste. I originally wanted to create an alluvial diagram to emphasize how much of the waste remains untackled. 
+
 6.	The storyboarding portion was beneficial in structuring the story.  When a story has to be broken down into pieces, it forces the designers to make sure that transitions are added into the story itself to make it flow. If there is no storyboarding, it is easy to fall into the trap of assuming that the audience knows what we are trying to say.
+
 7.	Creating an impactful message is hard. When I am doing the visualizations, I was aiming to make the message simple to understand.  I was making comparisons to everyday items. I ended off the story with an alarming number (waste per minute) to make it more memorable. But in the process, it may not meet the needs of some audiences where a simple message is not sufficient (practitioners and legislators).
 
 
-
-## References 
+## D. References 
 - “Government Spending Chart.” Government Spending Chart: United States 2006-2024 - Federal State Local Data. [https://www.usgovernmentspending.com/spending_chart_2006_2024USb_19s1li111mcn_F0f40t20t](https://www.usgovernmentspending.com/spending_chart_2006_2024USb_19s1li111mcn_F0f40t20t)
 - Berwick DM, Hackbarth AD. Eliminating Waste in US Health Care. JAMA. 2012;307(14):1513–1516. [doi:https://doi.org/10.1001/jama.2012.362](https://doi.org/10.1001/jama.2012.362)
 - Martin, Emmie. “6 Ways You Could Spend $1,000 Instead of on an IPhone X.” CNBC. CNBC, October 31, 2017. [https://www.cnbc.com/2017/10/31/6-things-you-could-do-with-1000-instead-of-buying-an-iphone-x.html](https://www.cnbc.com/2017/10/31/6-things-you-could-do-with-1000-instead-of-buying-an-iphone-x.html) 
