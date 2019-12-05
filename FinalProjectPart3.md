@@ -36,10 +36,9 @@ In addition to those found in Part B of [Final Project Part 1 Version 2](/FinalP
 ### A.4.Approach to the project remains the same. It is found in Part C of [Final Project Part 1 Version 2](/FinalProjectPart1_V2.md)
 
 ## B. Design and user research
+### B.1.My Sketches, storyboards and Wireframes are found in Part A & C of [Final Project Part 2](/FinalProjectPart2.md).
 
-Sketches and storyboards (Part II)
-User research protocol and findings (Part II)
-Wireframes (Part II)
+### B.2.User research protocol and findings are found in Part B of [Final Project Part 2](/FinalProjectPart2.md).
 
 ## References 
 - “Government Spending Chart.” Government Spending Chart: United States 2006-2024 - Federal State Local Data. [https://www.usgovernmentspending.com/spending_chart_2006_2024USb_19s1li111mcn_F0f40t20t](https://www.usgovernmentspending.com/spending_chart_2006_2024USb_19s1li111mcn_F0f40t20t)
